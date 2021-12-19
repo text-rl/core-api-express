@@ -195,3 +195,5 @@ dist
 /.idea/modules.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /package-lock.json
+
+.idea/vcs.xml
